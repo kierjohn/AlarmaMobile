@@ -1,0 +1,7 @@
+{
+  "appId": "com.alarma.app",
+  "appName": "mobileapp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build"
+}
